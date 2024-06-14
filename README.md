@@ -8,3 +8,14 @@ sudo ./install.sh
 wget -O update.sh https://raw.githubusercontent.com/Vincent-LvZY/BT-Panle-7.7/main/BT-Panle-7.7-Update.sh
 sudo chmod +x update.sh
 sudo ./update.sh
+
+## 7.7.0开心专业版：
+wget -O update-happy-pro.sh https://raw.githubusercontent.com/Vincent-LvZY/BT-Panle-7.7/main/BT-Panle-7.7-Happy-Pro.sh && bash install.sh
+sudo chmod +x update-happy-pro.sh
+sudo ./update-happy-pro.sh
+
+## 7.7.0开心企业版：
+
+wget -O update-happy-pro.sh https://raw.githubusercontent.com/Vincent-LvZY/BT-Panle-7.7/main/BT-Panle-7.7-Happy-Ent.sh && bash install.sh
+sudo chmod +x update-happy-pro.sh
+sudo ./update-happy-pro.sh
